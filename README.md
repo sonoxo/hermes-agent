@@ -1,3 +1,42 @@
+<div align="center">
+
+<img width="100%" src="docs/assets/sonoxo-ecosystem-orbit.svg" alt="AGENT NEXUS animated ecosystem flow" />
+
+# AGENT NEXUS
+
+### Start from the terminal or a connected messaging channel. Hermes routes the conversation through your selected model, tools, skills, and memory.
+
+[Start here](#start-here) · [Original project documentation](#original-project-documentation)
+
+</div>
+
+## Start here
+
+You do not need to understand the whole codebase first. Follow the illuminated path in the graphic:
+
+**01 — Send a request** →  **02 — Select a model** →  **03 — Call approved tools** →  **04 — Use memory and skills** →  **05 — Return or deliver the result**
+
+| What you are looking at | Plain-English meaning |
+|---|---|
+| **Input** | What the user or system supplies |
+| **Core** | The repository’s main processing loop |
+| **Guardrails** | Configuration, policy, filters, or approval boundaries |
+| **Output** | The result the system returns or deploys |
+| **Proof** | Tests, reports, previews, logs, or other visible evidence |
+
+> **Status, stated plainly:** This fork preserves Nous Research’s upstream Hermes Agent documentation, attribution, and license. Providers, gateways, messaging platforms, and tools require their documented setup.
+
+<details>
+<summary><strong>Accessibility and motion</strong></summary>
+
+The hero is a native SVG with descriptive text. Animation automatically stops when your device enables **Reduce Motion**. No JavaScript, tracking code, video autoplay, or external image host is required.
+
+</details>
+
+---
+
+## Original project documentation
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
